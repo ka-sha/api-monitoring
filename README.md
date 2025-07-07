@@ -30,5 +30,5 @@ docker-compose up -d
 
 Запуск можно произвести, как средствами IDEA, так и напрямую запустив JAR:
 ```bash
-java -jar build/libs/api-monitoring-service-0.0.1-SNAPSHOT.jar
+java -jar build/libs/api-monitoring-service-1.0-SNAPSHOT.jar
 ```
